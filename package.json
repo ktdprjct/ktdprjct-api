@@ -1,6 +1,6 @@
 {
   "name": "ktdprjct-api",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "test",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
     "url": "git+https://github.com/ktdprjct/ktdprjct-api.git"
   },
   "keywords": [
-    "YNTKTS"
+    "test"
   ],
-  "author": "Hexagon",
+  "author": "ktdprjct",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ktdprjct/ktdprjct-api/issues"
