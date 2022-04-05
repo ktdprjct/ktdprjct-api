@@ -10,7 +10,7 @@
 
 
 ## ```wallanime```
-
+``` 
 const ktd = require('ktdprjct-api');
 const name = 'gintama'
 
@@ -18,7 +18,4 @@ ktd.wallanime(name)
     .then(result => {
      console.log(result)
 });
-
-
-  
-  
+```
